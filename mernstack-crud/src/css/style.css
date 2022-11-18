@@ -1,0 +1,14 @@
+.action-btn {
+    margin: 0 5px;
+    color: white;
+}
+
+.action-btn:hover {
+    color: white;
+}
+
+.home-heading {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(44, 88, 88);
+}
